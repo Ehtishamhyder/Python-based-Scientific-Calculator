@@ -25,4 +25,8 @@ scientific functions. Conditional statements (if-elif-else) are used to
 handle multiple operations efficiently. The time.sleep() function is
 implemented to improve user interaction and program flow. I used time.sleep() function for 3 seconds. Its mean mean next flow show after 3 seconds.
 
+To run use python
+Run the program using:
+python filename.py
 
+Developed by Ehtisham
