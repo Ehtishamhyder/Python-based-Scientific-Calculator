@@ -1,4 +1,4 @@
-           ##Scientific Calculator (Python)
+           **Scientific Calculator** (Python)
 
 **Overview:**
 This is a Python-based Scientific Calculator developed using Visual Studio Code.
