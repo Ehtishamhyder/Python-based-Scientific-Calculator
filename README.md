@@ -1,4 +1,4 @@
-Scientific Calculator (Python)
+Scientific Calculator
 Overview
 
 This is a Python-based Scientific Calculator developed using Visual Studio Code. The program performs 13 important mathematical operations including arithmetic, trigonometric, logarithmic, exponential, power, square root, and factorial functions.
