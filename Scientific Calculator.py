@@ -2,6 +2,8 @@
 import math
 import time
 
+print("Welcome to the Scientific Calculator!")
+
 def show_list():
     print("1. Addition")
     print("2. Subtraction")
@@ -94,6 +96,7 @@ def main():
         time.sleep(3)
 
 main()
+
 
 
 
