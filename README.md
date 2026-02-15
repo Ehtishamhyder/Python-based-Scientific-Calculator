@@ -1,3 +1,4 @@
+<img width="1389" height="467" alt="Output Scientific Calculator" src="https://github.com/user-attachments/assets/8c7b4c4b-062d-4384-9b06-1e4080013119" />
 # Scientific Calculator
 
 **Overview:**  
